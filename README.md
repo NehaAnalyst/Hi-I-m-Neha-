@@ -16,7 +16,7 @@
 ## Education
 
 * **Certification in Google Advanced Data analytics**
-    * Coursera Jan-2025
+    * Coursera - Jan-2025
 * **Master in Commerce**
     * University of Lucknow- August 2021 - September 2023
 * **B.COM(HONS)**
@@ -56,7 +56,6 @@
 
 ## Certifications
 
-* Successful Job Interview Strategies
 * Get Started with Python
 * Foundations: Data, Data, Everywhere
 * Data Analysis with R Programming
