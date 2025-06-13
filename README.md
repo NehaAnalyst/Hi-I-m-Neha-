@@ -30,7 +30,7 @@ Passionate about leveraging AI and machine learning techniques to uncover hidden
 * **Data Analyst**
     * Self-employed
     * December 2024 - March 2025 (4 months)
-* **Business Analyst**
+* **Junior Data Analyst**
     * Aura Infusion
     * January 2023 - June 2024 (1 year 6 months) 
     * Lucknow, India
