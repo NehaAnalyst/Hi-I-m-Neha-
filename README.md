@@ -1,6 +1,6 @@
 # Hi 👋, I'm Neha Sharma
-"Business Analyst | Business Insights | Turning Commerce Knowledge into Actionable Insights"
-### A Business Analyst
+"Data Analyst | Business Insights | Turning Commerce Knowledge into Actionable Insights"
+###  Analyst
 
 ---
 
